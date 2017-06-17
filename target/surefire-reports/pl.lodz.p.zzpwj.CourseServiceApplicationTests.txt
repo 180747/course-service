@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pl.lodz.p.zzpwj.CourseServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.75 sec - in pl.lodz.p.zzpwj.CourseServiceApplicationTests
